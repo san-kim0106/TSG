@@ -568,7 +568,7 @@ class GLT(nn.Module):
                         """
                         Combine feature_tables[b, k, j] and feature_tables[b, i-k-1, j+k+1]
                         """
-                        print(f"({b}, {i}, {j}, {k})")
+                        # print(f"({b}, {i}, {j}, {k})")
                         attn_weights[b, i, j, k] = torch.softmax(torch.cat((self.att_score_l(feature_tables[b, k, j]), self.att_score_r(feature_tables[b, i-k-1, j+k+1])), dim=-1), dim=-1)
 
                         h_hat[b, i, j, k] = torch.matmul(attn_weights[b,i, j, k], torch.stack((feature_tables[b, k, j], feature_tables[b, i-k-1, j+k+1])))
