@@ -1,0 +1,1116 @@
+3MSZA 24.3 30.4##person flipped the light switch near the door.
+3MSZA 24.3 30.4##person turn the light switch on.
+E6DLK 3.1 11.8##a person sits in a chair.
+E6DLK 3.1 11.8##the person sits in the chair momentarily.
+AKO6M 12.7 19.9##the person takes a bag from the bottom cabinet.
+F7TG5 13.2 20.8##person sits in a chair.
+F7TG5 13.2 20.8##person sits down on a chair.
+FPJ9D 25.8 34.0##person sit on a chair.
+Y1HGC 1.7 12.1##person drinking a glass of water.
+9JZO2 11.6 20.8##the person walks into the house puts down the food.
+V1WN7 0.0 14.4##a person is dressing.
+DLFPX 0.0 7.7##a person is standing on their stairs holding a bag.
+JVLAZ 9.3 18.0##person laying on the bed sneezing.
+JVLAZ 19.4 29.5##person drinks water from a cup.
+V2GC9 10.1 24.2##person putting groceries away.
+V2GC9 11.3 21.1##person opening a pantry door.
+V2GC9 10.1 24.2##person put groceries away.
+43CCM 7.7 22.0##person undressing by the shelf beside the doorway.
+2P7A9 26.5 35.8##the person puts a picture on their desk.
+2P7A9 18.8 24.0##person they put down the broom.
+1ZWPP 2.6 7.7##a person is smiling in the mirror of their bathroom.
+QUXYH 0.0 10.0##a person snuggles with a blanket.
+SY5QP 11.2 17.7##the person puts the sandwich down.
+NBSPH 26.8 32.0##person sits on the table.
+HY4FS 0.4 9.2##a person walks into a bathroom holding dishes.
+XMYXI 0.0 7.0##a person sits in a chair.
+XMYXI 0.0 7.0##a man is sitting at a chair.
+XMYXI 0.0 15.9##a person is smiling.
+YSKX3 13.0 18.0##person throws pillow on it.
+HBWLV 9.4 14.3##person puts the shoes on the floor.
+XE19C 0.9 8.5##person puts the cup in the sink.
+W3SC3 8.0 15.2##the person immediately opened a window.
+WKPQ3 5.1 11.0##person turns on the light.
+OE2M1 12.9 19.3##person takes the box.
+FYYFX 14.0 24.7##person get something to look out the window with.
+Q7IQI 1.8 8.6##person start sneezing with looking at the papers.
+Q7IQI 1.8 8.6##a person is sneezing into a blanket.
+6ZWSU 0.0 4.5##person closes the door.
+6ZWSU 16.2 21.8##the person takes their phone.
+AK2KG 0.0 6.8##a person is sitting on a bed.
+AK2KG 12.5 19.0##person begins opening the window.
+AK2KG 12.5 19.0##person opened the window.
+AK2KG 0.0 6.8##a person was sitting on a bed.
+8MQH6 0.0 8.1##a person opens up the closet.
+8MQH6 0.0 8.1##a person opens a closet.
+MAUMO 0.0 9.6##person takes a drink from a glass.
+G30NS 2.5 10.6##person puts it into a box.
+G30NS 0.4 7.6##person putting things on a shelf.
+SUJWY 17.1 29.7##the person begins laughing at something on the screen.
+OKXIQ 0.0 5.7##person they use the doorknob to open the cabinet.
+KB7WQ 7.3 14.0##person they close the box.
+KB7WQ 7.3 14.0##the person closes a box that's been searched through.
+UM5II 3.7 14.0##the person eats a few bite.
+1W6YY 3.5 7.9##person closes the cabinet door.
+YOCRB 26.4 36.0##person sit down in a chair.
+ZDV60 10.6 20.7##person start dressing themselves.
+GHC5X 22.2 27.8##a person takes a glass of water.
+6IOV0 0.0 13.1##person working on a laptop.
+OP2SS 20.4 26.7##the person takes out their laptop.
+Q3BCC 0.0 6.8##a person closes a door.
+Q3BCC 0.0 6.8##person trying to close the door.
+FBOF0 9.2 22.2##a person awakens in bed.
+U2AO1 10.5 17.0##the person eats it.
+3J9L5 1.0 6.6##a person is eating.
+3J9L5 2.8 9.0##a person is throwing the bag at the light switch.
+XQVXF 4.5 11.1##another person opens an oven door to look inside.
+XQVXF 0.0 9.0##one person is cooking.
+2ADJI 0.0 8.1##person drinking from a glass of water.
+LA6AA 2.2 11.8##a person is holding a blanket.
+YNWMW 0.0 5.2##a person is in a basement eating.
+TAQ25 11.6 17.7##the person closes the laptop.
+TAQ25 11.6 17.7##the person closes the laptop screen.
+TAQ25 4.3 16.5##person smiling at their laptop.
+EEVD3 18.4 32.0##person eat the food.
+EEVD3 18.4 32.0##person they begin eating the fruit.
+H0P5D 11.0 18.1##one person was running into the table.
+H0P5D 23.7 32.0##person they laugh.
+BFCU9 0.2 5.3##a person is eating from a can.
+BFCU9 3.2 8.4##person the put the food down.
+BFCU9 0.0 8.2##a person is holding some food.
+TUD6M 4.3 8.0##person throws their blanket inside.
+TUD6M 4.3 8.0##person throwing a blanket into a closet.
+A3XXB 1.9 7.1##person puts them away on a shelf in a closet.
+L5YHH 0.6 5.7##a person is turns on the light in their closet.
+FAJEA 14.3 23.5##person they take some medicine.
+QCVZN 6.2 12.0##a person takes a book off a shelf.
+5B9XE 0.0 13.9##a person runs into the bedroom.
+LKNZD 0.0 6.5##a person is throwing clothes on the floor.
+U8M2P 1.6 13.3##another person is sneezing on a sandwich.
+VAV4C 13.8 23.5##the person is sitting on a closed toilet eating.
+OTIA2 0.0 4.4##person turns on a lightswitch.
+86E2E 0.0 8.8##a person sits on the floor.
+86E2E 15.3 20.8##person eating as they are laying down.
+DJ87X 19.2 26.8##person takes their phone out of the cabinet.
+N0ZPI 14.4 20.8##person take a drink from the cup.
+OVD84 4.1 10.8##a person turns on some lights.
+NW0KT 7.9 18.8##person takes a book out from the entertainment center.
+NW0KT 43.6 50.0##a person is tidying some books on a shelf.
+8SDK5 15.4 23.0##person sits down in a chair.
+95GB4 8.8 19.8##person takes a picture.
+95GB4 0.0 11.2##person playing with their phone.
+TDAY1 0.0 16.6##person working on a laptop.
+BI4KK 0.9 8.4##person drinking from a glass of water.
+NO1GJ 15.9 25.8##person washes clothes.
+NO1GJ 0.0 10.2##a person is undressing in their laundry room.
+NO1GJ 16.4 25.4##person talking a towel off the shelf.
+7SNIO 0.0 7.3##a person runs into a living.
+F1V30 0.0 4.2##a person holding a towel walks up to a counter.
+NI15V 18.5 25.4##the person in the doorway walks away holding the towel.
+6HT0J 6.8 19.5##person start reading a book.
+RQRRD 7.5 24.3##person quickly undressing.
+RQRRD 0.0 4.8##a person runs into the the living room.
+4H64T 14.6 21.2##person opens the refrigerator.
+FXGQI 1.7 6.7##person sneezing into the mirror they are holding.
+KY2KA 3.7 9.5##person knees takes a book from a cabinet.
+KY2KA 3.7 9.5##a person takes a book from a shelf.
+MNNJS 21.3 30.7##person pouring coffee into a cup in the dining room.
+MNNJS 18.5 24.0##the person puts the cups onto a table.
+QMIKJ 0.7 9.8##a person is putting their laptop on their desk.
+HRASP 2.7 7.9##person turns on a light.
+HRASP 6.3 11.6##person are seen throwing shoes on the floor.
+UY0SK 22.9 28.0##person sit to eat a sandwich.
+UY0SK 14.6 28.0##person watch the television in the next room.
+SJ4QF 6.4 15.5##person washes a glass.
+2Z8G8 6.2 15.5##person they put the bag on a shelf.
+XVI3M 14.8 20.9##the person puts the laptop down.
+URK3G 14.5 20.8##person open the books.
+7XMBM 9.3 18.3##person eating from a bowl.
+7XMBM 9.3 18.3##another person walks into a room eating some food.
+61IVZ 0.0 12.0##person they set down the bag they're holding.
+A33VQ 11.1 19.7##person opening a refrigerator in the dining room.
+ZMY8M 8.1 13.8##the person eats some food.
+T9Y1N 0.0 3.8##a person opens the doors to the pantry.
+AX46Z 12.8 28.7##person laughs as they lean against the dresser.
+SJ51G 16.0 21.7##person puts the blanket into a closet.
+SJ51G 0.0 13.0##a person is snuggling with a blanket.
+30I35 9.0 14.6##person poured its contents into the glass.
+MUWG4 5.0 13.4##person pours soda into a cup.
+WD35N 3.9 9.7##a person opens a cabinet.
+WD35N 3.9 9.0##person closes the cabinet.
+LLT3E 15.4 22.4##person walks through a doorway to leave the room.
+8UCK1 1.6 7.0##a person is opening a cabinet.
+LSFJG 20.7 26.0##person they start running in place again.
+LSFJG 13.3 20.6##person start watching themselves in a mirror.
+LSFJG 20.7 26.0##person start running in palce again.
+LSFJG 20.7 26.0##person starts running in place again.
+S7JTZ 3.0 14.5##person uses it to take pictures of their self.
+S7JTZ 2.4 14.5##a person walks into the bathroom holding a camera.
+RVVDR 0.0 11.6##a person opens a bag.
+T06AT 5.0 13.4##another person is inside holding a blanket.
+TZ9FE 0.0 8.0##a person runs to the closet.
+RPXAC 10.1 22.2##person dressing themselves.
+PRTAJ 31.4 43.0##person looks out the window.
+KZ36U 2.9 8.0##a person runs into the garage.
+7NXWU 4.2 13.1##person drinking from a cup.
+OHNUQ 6.5 13.5##a person is eating some food.
+5VUT9 5.0 10.0##person put the broom aside.
+5VUT9 8.0 13.0##person open a cabinet door get a cup out.
+FQS7O 6.9 11.5##person closes a book.
+55NRK 19.1 30.6##person begins sneezing.
+X9M5B 0.0 15.9##the person is sitting in the couch with the laptop.
+9RRED 18.3 25.3##this person takes off their shoes.
+9RRED 0.0 5.8##person drinking from a water bottle.
+9RRED 18.3 25.3##the person takes off a pair of shoes.
+9RRED 25.5 32.0##person sits on a couch.
+9RRED 0.0 5.8##person drinking from a plastic water bottle.
+IALUY 5.6 13.2##a person is sneezing.
+IALUY 8.6 15.1##person takes a towel from a rack.
+HHNTA 0.0 14.7##a person is walking around the room eating a sandwich.
+HHNTA 0.0 14.5##person removes a sweatshirt.
+HHNTA 0.0 14.5##the person takes off their hoodie/sweater.
+BM9NZ 24.1 30.8##the person eats food.
+H608V 11.6 22.0##a person is running in the living room in circles.
+IGZZG 5.4 11.6##the person is sitting on the floor watching television.
+MPHFU 0.0 11.2##a person looks at a picture in a picture frame.
+MPHFU 0.0 12.2##a person holds a picture.
+TUJF4 0.9 8.2##a person opens a door.
+A2X7Q 5.5 10.7##person take a bag out.
+A2X7Q 3.0 11.0##a person walks into the kitchen they open the cabinet.
+MBAA5 7.6 17.5##person puts it on a shelf.
+YE6TZ 0.2 8.3##a person put a book into a closet.
+0TDOP 2.1 8.0##a person is putting a box on the table.
+8B4ZP 27.5 34.2##the person puts the book down.
+N0NLE 23.5 30.0##person laughing a lot.
+AVL8A 3.8 8.5##person opens a book.
+7ZL8E 16.5 25.9##a person takes off their shoes.
+3JXKZ 0.0 3.8##a person is opening a bag.
+YMD74 3.4 8.8##a person is awakening.
+KWZSA 13.4 28.1##a person was sitting at a table.
+12XD3 0.0 4.0##person eating some food.
+12XD3 0.0 4.0##a person is eating.
+12XD3 0.0 4.0##the person begins eating the sandwich.
+874F1 0.0 3.6##the person drinks from a glass.
+JVH7Q 0.0 3.7##the person looks out the window.
+FQM2N 0.0 3.2##person sitting on the bed.
+21WN7 15.2 21.5##person put the plate on a table.
+75M1Z 25.1 31.6##person opens a box with a book.
+GKH0F 23.4 34.0##one person takes a phone from a bag.
+UMTLM 14.5 20.0##person close the door.
+FORXE 7.6 14.3##person runs around with a bag in their hand.
+FORXE 7.6 14.3##person decides to run with a bag of groceries.
+C7G1S 0.0 8.7##this person washed the dishes over the sink.
+NDDHA 11.8 24.3##person putting on shoes.
+11L5M 16.4 30.0##person starts running in place.
+11L5M 16.4 30.0##person start running in place.
+11L5M 15.5 20.4##person they throw the broom down.
+E6ZBZ 10.5 17.1##person they start sneezing.
+H0L5S 23.3 29.4##person opens the door.
+F19VE 6.7 16.1##person puts other food away in a cupboard.
+44T8B 0.0 3.5##a person washes their hands in a bathroom.
+O0349 8.3 13.5##person so they must open the pantry door.
+DSZYT 0.0 8.3##person they drink from a glass.
+KCRQU 17.2 24.3##person opens the refrigerator.
+NBMH9 3.7 10.7##person closes the door.
+SW5TC 13.1 18.9##person laughs at a tv.
+G2JR9 20.7 25.6##person the light turns on.
+G2JR9 20.7 25.6##person the lightbulb lights up.
+M9NAG 14.4 24.3##person stretching arms as if awakening.
+MS4GA 2.8 9.1##person puts a broom inside.
+FYHTC 23.2 29.0##person opens the door.
+FYHTC 23.2 29.0##person try to open the door.
+FKK5R 12.7 19.9##person getting up to turn on light.
+QYM5H 16.5 31.0##person take a picture of the towel.
+QYM5H 0.0 5.2##a person throws a towel on the floor.
+I9CDV 5.2 11.0##a person is eating a sandwich at the bathroom mirror.
+1TIAK 11.4 15.8##the person fixes some messy homework papers on the table.
+TJJKK 4.6 9.3##the person eats something from off the bed.
+TJJKK 0.0 2.9##person sitting on a bed with a cell phone.
+41F2M 11.3 22.1##finally the person washes their hands in the sink.
+W0XPU 0.0 5.4##a person holds a pair of shoes.
+87Y64 6.5 13.5##a person is throwing a book to another person.
+87Y64 0.4 6.1##person run to the other side of the room.
+ZQKVY 0.0 5.4##a person runs into the bedroom.
+JR6VG 12.0 17.9##another person runs into the room.
+AAQHJ 5.7 15.0##a person is sitting on a chair.
+AAQHJ 4.3 16.7##a person eating something off of a plate.
+AAQHJ 16.4 26.7##person grab a pillow to snuggle with.
+AAQHJ 0.8 11.9##person holding a pillow.
+AAQHJ 4.3 16.7##person eating from a plate of food.
+LLQBB 13.8 21.5##the person throws the bag down.
+LLQBB 26.1 33.0##person finally laughing to themselves.
+LLQBB 26.1 33.0##the person starts laughing as they put the bag down.
+LLQBB 17.0 30.7##person take off their shoes.
+RX7TC 0.0 6.4##person takes several bites of an unknown food item.
+GFK4S 0.0 13.5##person holding a pillow.
+VIN5T 2.0 8.8##a person is sitting on the floor throwing a pillow.
+IONV9 4.1 9.3##a laughing person is drinking soda in their basement.
+IONV9 0.0 6.2##person continuing to drink from the bottle.
+IONV9 0.0 6.2##person drinking from a glass of water.
+IDXZK 0.0 9.1##person eating food from a dish.
+79VVK 30.9 37.5##person run out of the closet.
+YACA8 3.4 11.8##person putting clothes.
+C46TD 0.0 12.1##the person washes their hands at the kitchen sink.
+9J0RB 0.0 7.0##person drinking a glass of milk.
+9J0RB 0.0 4.4##a person is watching a television in their bedroom.
+9J0RB 7.7 14.6##person throws the pillow to the side.
+ZIP18 25.2 31.8##person eat a sandwich.
+3N1I2 7.9 15.1##the person puts the sandwich into the refrigerator.
+337O2 0.2 6.2##person they put them down on the table.
+VJ0LT 2.5 13.4##person pours it into a glass.
+VJ0LT 2.5 13.4##person pours a glass of soda.
+TCI7K 3.6 10.3##person put a item on the table.
+QE4YE 0.0 3.5##a person is opening a bag.
+QE4YE 4.2 9.7##the person puts the bag on a counter.
+CM6T8 0.0 3.2##a person is opening their closet looking for a sandwich.
+ICQUJ 14.4 22.0##person starts eating some food.
+ICQUJ 14.4 22.0##person pick up a sandwich to eat.
+I87SH 0.0 3.7##a person awakens on the floor of their home office.
+I87SH 18.8 32.0##person opens the window.
+BDY1V 3.7 19.0##one person undresses in front of a wardrobe.
+AFCDN 24.9 30.0##person began to eat.
+KA09C 27.2 32.0##the person turns the light off.
+SLHDI 2.8 12.4##person opening the refrigerator doors.
+XKU2U 19.2 26.5##person puts it on a table.
+BI6Y4 25.3 33.1##person sits down at the table.
+1FIGA 18.1 24.9##person put something in it closes the door.
+1FIGA 18.1 24.9##person closes the door.
+LZ2Y4 11.8 20.1##person runs to the kitchen.
+LZ2Y4 10.0 15.5##the person puts the cup down.
+M4Z0M 0.7 8.4##a person is eating a sandwich in a hallway.
+K7NRW 5.8 14.9##person eating it.
+K7NRW 13.2 23.7##another person is fixing a doorknob.
+KZS5M 23.3 34.3##watches the tv as the person eats a sandwich.
+KZS5M 7.3 14.9##person turning the light on.
+JNK11 1.8 7.3##person puts something onto a shelf.
+TH3M0 0.0 4.7##a person opens a door.
+JXTAD 23.8 34.0##person turning off the light.
+5R7VN 7.1 14.2##person closing a door.
+N56QO 0.8 5.6##person the individual takes a drink from a coffee cup.
+1RD2K 0.0 5.5##a person closes the door to a house.
+TKAUR 3.2 8.9##person takes a cup of coffee off of the counter.
+TKAUR 0.0 18.7##person reads a book.
+W7EDM 11.6 17.6##person eats some food.
+W7EDM 0.4 5.2##a person sits down on a bed.
+W7EDM 0.8 9.1##person takes off their shoes.
+TQO6O 15.7 25.2##the person takes some paper.
+P0CET 0.0 7.2##a person takes some clothes from a closet.
+B6XQZ 3.1 17.9##person they laugh at something on the screen.
+B6XQZ 3.1 17.9##person laughs to themselves multiple times.
+G2DIN 23.1 33.0##person takes some clothes out.
+B0XI9 0.2 8.2##a person is running across a room.
+B0XI9 18.6 33.0##person start sneezing.
+V8IGX 20.2 28.0##person sit on the sofa.
+V8IGX 0.0 8.1##a person is sneezing as the person opens the door.
+V8IGX 20.2 28.0##person begins sitting on the sofa.
+J59UP 0.0 5.6##a person sits in a chair.
+BIQGN 12.5 17.8##person closes the door.
+BIQGN 0.0 5.4##a smiling person walks into a bathroom.
+BIQGN 15.8 21.2##the person puts a towel on a shelf.
+LXEPT 17.4 30.9##the person takes a notebook out.
+LXEPT 6.2 14.6##the person puts a notebook on the table.
+Y2MGC 18.3 33.0##person begins to eat it.
+Y2MGC 18.3 33.0##person start eating food.
+Y2MGC 8.1 16.3##the person takes some food out of a box.
+IWTWJ 4.3 9.5##a person is throwing a blanket onto the sofa.
+5HPZ1 16.4 23.1##person a clicks a nearby light on.
+VNMNF 0.0 12.6##a person is watching television.
+VNMNF 21.9 28.0##person sits down in a chair.
+FTYFA 0.0 4.9##person opens a door.
+FTYFA 4.1 8.8##a person turns on a light.
+GZF5F 4.7 11.7##person pours another glass out of a pitcher.
+QSVXJ 5.7 17.5##person another holds a towel.
+OZ02A 2.9 11.8##person a light is turned on.
+ODM20 21.5 30.0##person look out the window.
+ODM20 21.5 30.0##the person looks out the window.
+ODM20 5.5 13.6##person drinking a cup of coffee.
+MUE2B 1.8 6.7##the person turns on the light.
+MUE2B 0.0 5.6##the person opens the door to the bathroom.
+MUE2B 16.5 24.0##person they walked over to the window to look outside.
+ETDTU 0.0 4.7##the person begins holding a mirror.
+9EEGQ 7.6 14.3##person fixing pantry door.
+LV4U7 2.8 10.8##person standing in the open doorway of a pantry.
+2AG8W 4.0 8.7##person throwing their clothes into the closet.
+2AG8W 7.2 12.0##person start running through the hallway.
+EFADI 5.2 11.0##that same person takes some medicine off a shelf.
+D4D2T 13.9 25.0##person eats it.
+XJA7Z 7.4 16.0##person drinking from the glass of water.
+NKE77 8.2 14.8##person puts it down on the table.
+NBKCK 0.0 3.2##the person turns on a light.
+X2JBJ 6.0 18.0##person smiling at the book.
+1F706 0.0 3.4##a person runs to the doorway of the pantry.
+1F706 25.2 31.0##person closes the door.
+XXS99 15.9 24.6##the person takes the book.
+N86ED 1.7 11.5##person eating a sandwich.
+N86ED 0.0 8.5##person eating some cookies out of a box.
+NACLT 12.6 21.0##person runs out.
+KGO3W 7.5 14.5##a person turns on the light.
+SCFIN 8.7 22.0##person open the refrigerator.
+TRHT1 0.0 4.2##person sitting on a couch.
+A9YQJ 22.8 34.0##person start fixing their hair.
+8RU1Q 0.0 4.4##a person opens the door.
+J5DOP 25.8 31.0##person opening the door.
+5TYXL 25.1 31.4##person takes the broom.
+H46LQ 23.5 29.1##person they stand up.
+1NJOQ 0.0 5.9##a person walks through the doorway.
+13XM4 18.0 22.2##person start laughing.
+3R4DD 24.7 34.0##person sit down in a chair.
+3R4DD 24.7 34.0##person sits in a chair.
+SUG5S 0.0 5.4##person they stand up.
+X4BQG 5.7 14.8##person opens a cabinet.
+X4BQG 5.7 14.8##the person opens a cabinet.
+X4BQG 1.3 14.3##person puts some paper inside.
+5EEXF 1.0 7.0##a person opens a cabinet.
+5EEXF 1.0 7.0##the person opens a closet door.
+YFJ9U 2.2 13.1##person puts on shoes.
+4YBN9 21.7 29.4##person open a door.
+XRU9O 8.7 21.9##a person is standing against a wall eating a sandwich.
+XRU9O 8.7 21.9##person eating a sandwich.
+PC7H2 4.7 18.2##person sits on the couch.
+PC7H2 4.7 17.7##a person is sitting at the table.
+E002I 0.3 7.3##a person runs into the bedroom.
+E002I 4.7 14.1##person lies down on the bed.
+E002I 12.9 19.7##the person gets up to close the door.
+5GHV3 0.0 9.2##a person is putting clothes on.
+1P7GJ 16.4 23.6##person they open a door to grab a broom.
+MB281 19.5 28.9##person turning the light off.
+MB281 19.5 28.9##person turn off the light.
+MB281 14.3 19.8##person puts it down on the shelf.
+ZZ3HT 7.0 11.3##person put it back closed the shelf.
+ZZ3HT 2.4 8.0##person walk over to a cabinet take a towel out.
+0J471 13.0 23.0##person running up.
+HG7C2 0.0 13.5##a person is undressing in the doorway.
+S5KQ1 3.0 8.2##a person opens a box.
+S5KQ1 11.7 17.1##person throws a broom down.
+YIIFF 0.0 9.5##a person is tidying up a shelf.
+IIL9C 0.0 13.2##person eating a cookie.
+SBI6Z 11.8 20.6##person pours a drink into a glass.
+9J7EW 3.9 18.2##person sits in a chair.
+9J7EW 11.1 24.5##there is a person holding a bag.
+1F4JZ 2.0 8.7##one person takes some medicine.
+YHXU9 14.2 18.7##person throws it on the floor.
+KS5JT 0.0 5.7##person turned on the light.
+KS5JT 0.0 5.7##person turns on the light.
+HQ8BB 2.5 9.2##person turning the light on.
+AGGSE 8.9 15.0##the person is sneezing.
+3W1GP 25.2 31.3##person takes out a laptop.
+3W1GP 0.0 2.6##a person opens the door.
+3W1GP 0.0 2.6##a person opens a door.
+3W1GP 14.0 31.0##person open a bag.
+3W1GP 2.9 8.7##person closes the door.
+OQSXX 0.0 7.6##a person sits on a couch.
+ZXHCH 3.2 7.4##the person takes their books out of their bag.
+ZXHCH 4.7 10.8##person open up the books.
+RMKOC 0.0 12.0##person holds a plastic bag.
+8O07M 16.2 26.7##person opens a door.
+BEAAA 0.7 10.9##the person undresses their jacket.
+BEAAA 0.0 3.5##person sitting in a chair eating.
+8V8HC 0.0 6.1##person they both run in the house very quickly.
+D7W4E 6.5 13.7##a person puts a coffee cup on a shelf.
+Q3Z4V 16.8 24.6##person drinks from a glass.
+5D85P 4.2 8.6##person closes the laptop screen shortly.
+AWR2R 2.7 11.7##a person is standing in the bedroom holding a broom.
+2KGV3 2.6 13.1##person eating a sandwich.
+2KGV3 2.6 13.1##the person puts the book down to continue eating.
+2KGV3 2.6 13.1##a person is sitting on the couch eating a sandwich.
+D0AGO 0.7 16.3##person pours coke into glass.
+D0AGO 0.7 16.3##person seen pouring a can of soda into a glass.
+EF7Q9 6.8 13.4##person washes hands.
+HS14N 10.9 16.3##person closes the cabinet.
+HS14N 5.9 14.1##the person takes a dish from the top shelf.
+L2502 14.2 31.1##person fixes their hair in a mirror.
+GT43R 2.1 9.3##person turns off the light again.
+ICOX1 16.9 23.8##person turns the light on.
+QQGU3 0.0 5.3##a person opens a cabinet.
+QQGU3 15.2 19.0##a person takes a box.
+QQGU3 10.3 18.5##person opens the box.
+Z2KJ5 4.9 16.0##person takes food out of a bag.
+7EJUR 0.4 10.3##person watching a video on a laptop.
+FFYL6 0.0 6.3##a person puts a broom inside a closet.
+FFYL6 9.9 15.0##person they pretend to start sneezing.
+YN3AA 12.1 27.0##person eats a sandwich.
+5INX3 32.5 46.0##person dressing by putting a jacket on.
+IKJGO 22.5 28.4##the person puts the book down.
+SR8IK 4.6 14.9##person takes a drink from a glass.
+WX711 14.8 22.5##person drinking out of a cup.
+VNQTH 1.6 6.6##a person puts clothes into their closet on a shelf.
+VNQTH 1.6 6.6##person puts it on a shelf.
+VNQTH 6.0 10.3##person takes out their cell phone.
+99B6U 16.9 22.5##this person puts some papers in the bag.
+JTXAM 13.8 19.1##person closed the book.
+P6JGZ 0.0 4.4##person opening a cabinet.
+P6JGZ 0.0 4.4##the person opened some cabinets.
+26RQN 22.0 35.0##the person starts washing a table.
+KTDG0 5.7 11.1##person is closing door to closet.
+LQMXW 0.0 16.8##a person is walking in a room holding towel.
+2FPB3 8.0 15.8##person put the book down.
+2FPB3 3.2 10.8##a person is sneezing into a book.
+TNDT2 16.0 22.0##person finally eat something.
+X8JVY 3.0 8.9##the person is opening a bag.
+QVBTC 0.0 12.6##a person smiles as they watch something out the window.
+BQZ52 0.0 5.9##a person opens the closet.
+IUETR 0.0 8.1##a person opens a door.
+IUETR 0.0 8.1##person opens up the door go into the bedroom sneeze.
+FVINY 0.0 14.6##a person sat on a chair reading a book.
+R971Z 14.0 23.4##person they stand up.
+R971Z 20.7 30.6##person fixing their hair.
+VXOE4 11.0 26.6##person start working on their laptop.
+JT537 16.9 23.1##person put the broom down.
+U9NI5 3.3 11.2##person drinking from a cup.
+U9NI5 13.0 22.3##the person was eating a sandwich.
+U9NI5 9.4 16.5##person the runs to a mirror on the wall.
+WP5RH 0.0 8.0##a person runs through a doorway.
+WP5RH 0.0 8.0##a person is running in place under a doorway.
+WP5RH 0.0 8.0##person run out room.
+E89S9 0.0 8.9##a person is sitting on a chair.
+E89S9 0.0 8.9##the person sits in a chair.
+0KZYF 2.3 7.8##person eating something off of a plate.
+0KZYF 2.3 7.8##person continuing to eat the sandwich.
+0KZYF 2.3 7.8##person eating a sandwich.
+0KZYF 25.8 32.0##the person starts smiling.
+KT2SV 15.0 25.3##a person awakens in their bedroom laying on a pillow.
+HXUI5 0.0 14.5##a person puts on shoes.
+HXUI5 29.2 36.1##person fixes their hair.
+HXUI5 0.0 14.5##a person is putting on some shoes.
+TR652 0.0 11.6##person reading book.
+3HLP7 0.0 4.6##a person closes the door.
+XPXWY 0.0 9.8##person opens the door.
+XPXWY 0.0 9.8##a person opens a pantry door.
+FK143 31.2 37.0##person they take the medicine.
+FK143 31.2 37.0##the person takes out a bottle of medicine.
+FK143 20.2 27.6##person pours some into a small cup.
+FK143 31.2 37.0##person take out some medicine.
+YMJ6E 1.4 9.4##person opens the door.
+E5ZF5 13.7 20.9##the person took a drink from a cup.
+E5ZF5 10.5 17.2##person they put their food away.
+C6C7Q 0.0 5.2##a person awakens from a deep sleep.
+C6C7Q 11.0 16.2##person turns on a light.
+D0Y4L 0.0 5.9##person closes the door.
+BIJYC 24.8 36.0##person begin running in place.
+BIJYC 24.8 36.0##person beginning to run in place.
+7MRKY 29.9 36.1##the person closes a laptop that is sitting open.
+Q0IHP 16.0 21.9##person adjusts the heat.
+136V6 13.7 26.7##person decompressing for a few minutes by reading a book.
+4BIMI 18.8 23.7##person takes a cup.
+4BIMI 4.9 22.4##a person laughs to themselves.
+0Z1PC 18.0 25.1##person puts the pillow in there.
+0Z1PC 10.4 17.7##the person opens a closet door.
+0Z1PC 25.0 32.5##person closes the closet doors.
+0Z1PC 18.0 25.1##person puts a pillow.
+2ZICJ 4.5 12.4##person opens a refrigerator door.
+CYCEV 0.0 5.9##person holding some food.
+X9LP4 16.7 30.7##person reads a book.
+9ZE0J 0.0 9.4##one person runs up the stairs eating.
+QVD5B 0.0 14.8##a person is in the entryway holding a bag.
+1440M 17.5 27.0##person opening a closet door.
+1440M 17.5 27.0##person start closing the door.
+1440M 17.5 27.0##person closes a closet door.
+HA8S9 8.2 14.9##person throws their shoes under a desk.
+L8CC0 26.9 37.0##person so they start laughing.
+WPU76 2.1 9.3##person starts running.
+CH41S 2.3 10.3##a person is putting a broom in the closet.
+DCRI5 3.8 9.1##person puts something on the top shelf.
+DCRI5 0.4 5.5##a man opens his closet door.
+OHOFG 1.0 7.5##person sitting down in a chair.
+OHOFG 22.3 33.0##person eat a snack.
+GCI2J 8.3 19.3##the person takes a pair of running shoes from nearby.
+GCI2J 8.3 19.3##person take shoes from the floor.
+GCI2J 6.1 14.1##person takes some pictures.
+N6FZ7 0.0 6.4##a person runs into the living room.
+9YOI8 24.6 30.3##person closes the window.
+RJD1Z 0.0 11.2##a person is grasping a light to turn it on.
+WF89D 6.6 12.6##a person takes a drink from a cup.
+FDDDG 1.8 6.3##person takes a phone.
+OB660 7.4 12.3##person throws a blanket off of them.
+OB660 0.0 5.6##person run over to the window to look outside.
+7LWW3 1.8 23.6##person looking at a book.
+TRVEA 3.6 9.2##this person throws the pillow on the floor.
+W0YVE 4.4 10.0##a person runs into the entryway.
+FNBYE 20.5 31.8##person eating a sandwich.
+FNBYE 6.5 10.8##person takes a glass.
+KFLI0 5.0 9.0##person turns the light off.
+OJYDD 21.1 33.2##person pouring a glass of wine in a living room.
+HNPX7 25.2 31.0##person put the bag away.
+HNPX7 0.0 5.9##the person sat in a hall opening a plastic bag.
+8D6PU 1.0 6.6##a person is walking through a doorway.
+BQOLV 0.0 11.7##a person undresses in their closet.
+BQOLV 0.2 11.7##person putting their clothes on the floor.
+HI75B 3.9 10.4##person opens a cabinet under the stairs.
+HI75B 5.0 10.0##person with a flashlight.
+HI75B 5.0 10.0##person they put a flash light into it.
+U33ZS 0.5 9.1##person takes their laptop from inside.
+MZZK2 0.0 6.4##a person is standing in the garage holding a book.
+MZZK2 21.2 32.0##person lays down on the floor.
+MZZK2 6.6 10.9##person turns the light off.
+L0QNM 0.0 12.2##person watching television.
+2TAT3 7.7 16.3##person drinking from a glass of water.
+I75CL 0.0 6.9##a person is opening a door holding groceries.
+I75CL 2.7 9.4##person closes the door behind them with their shoe.
+9MNZ5 26.9 41.2##person starts eating them.
+E6RD3 22.9 28.0##person kicks open a door.
+JMPKP 5.1 9.8##a person is putting their shoes in a closet.
+JS3TB 0.0 5.1##person eating a sandwich.
+1QP1S 8.3 14.9##a person eats some food.
+1QP1S 21.9 35.0##person laughing at a picture.
+1QP1S 14.8 21.2##one person awakens.
+1QP1S 8.3 14.9##another person is eating something from a bag.
+OVFR0 11.3 17.3##person that they opened a door.
+O3HV7 4.8 14.0##a person awakens.
+O3HV7 20.2 27.3##person putting glasses on.
+7O6FK 3.1 10.3##a person throws a blanket down the stairs.
+7O6FK 4.0 9.6##a person throws a blanket on the floor.
+DJVKE 14.1 26.5##person is also eating something next to him.
+DJVKE 14.1 26.5##person eating a snack.
+JIUH7 15.2 21.8##person they put the bottle in the trash.
+JIUH7 0.0 10.0##person drinking from a water bottle.
+JIUH7 15.2 21.8##person put the bottle in the garbage.
+YT2C3 14.6 21.3##the person takes a paper towel from the shelf.
+YT2C3 6.7 17.4##person holding their phone.
+3B97C 2.1 8.5##a person is running into their kitchen holding a laptop.
+0E6H9 22.6 29.5##person drinks from a bottle.
+PT4XS 16.1 20.3##a person is sitting at a table.
+XRG9K 1.7 9.4##one person opens a box.
+7AB3X 17.1 24.8##person grabs something to drink out of a cup.
+BJ7YW 8.4 15.0##person looks out a window.
+FJYWX 20.5 26.6##person put it on the table.
+4FX6G 7.8 18.6##a person opens a door.
+RJNAB 0.1 5.6##a person drinks from a cup.
+RJNAB 7.2 12.1##person they open a box.
+ZL3QP 2.1 9.3##a person is laughing as the open the pantry.
+EURF2 22.5 29.4##person sitting on the bed themselves.
+OTUV7 0.0 6.3##person eating from a bag.
+2OHTZ 6.6 15.5##person taking a drink from a cup of coffee.
+2OHTZ 0.0 5.3##a person opens a laptop.
+DMO76 11.6 20.4##the person runs into the adjacent living room.
+FQS5V 14.7 21.1##person they stand up.
+DHDCF 2.1 8.8##person walks towards the camera drinking from a glass.
+TS2DM 0.0 13.8##person holding a cell phone.
+TS2DM 0.0 13.8##person holding the phone.
+OY3LS 34.9 41.4##the person sits on a couch.
+OY3LS 7.2 23.6##a person is standing in their entryway undressing.
+OY3LS 34.9 41.4##person sit on a couch under a blanket.
+OY3LS 7.2 23.6##person they get undresses.
+68OG0 18.7 29.9##person drink a cup of coffee.
+GAOV2 12.0 21.5##person putting a laptop in a bag in a kitchen.
+Q5MDU 0.0 3.6##person turns the light off.
+Q5MDU 0.0 3.6##person turns on a light.
+4H61U 19.0 31.0##person dress themselves with it.
+CLB72 15.6 23.7##person takes a pillow from it.
+CLB72 15.6 23.7##person takes a pillow out of the box.
+CLB72 0.0 3.6##person turns on the light to a closet.
+CLB72 0.0 3.6##a person turns on the light in a closet.
+SB8G0 0.0 4.0##a person is smiling.
+SB8G0 0.0 6.5##a person is sitting on a chair.
+SB8G0 25.4 29.5##person closing the cabinet.
+ATV2F 0.0 10.1##person a girl is dressing in front of a closet.
+M014B 5.7 15.0##a person drinks milk from a bottle.
+W3NN2 26.7 31.0##person turns off the light.
+QMHK8 39.5 46.4##person takes the bag off the doorknob.
+QMHK8 39.5 46.4##person takes off sweater to put in bag.
+QMHK8 20.1 44.4##the person undresses (removes socks.
+QMHK8 42.1 54.7##person puts it on the shelf.
+UR55B 18.8 33.8##person holding a bag of groceries.
+OB9D0 23.4 33.0##person they start playing with a camera.
+NL9AW 6.5 13.2##person holding their food.
+9BQ7M 9.7 16.2##person sitting in a chair smiling.
+FQ8FN 6.6 17.0##a person awakens in bed.
+30K2N 5.2 10.6##a person runs into a garage.
+30K2N 1.7 6.7##person turns on a light.
+RAGOI 7.4 12.0##person put the towel on top of a table.
+KNGRY 13.3 18.1##the person appears to laugh.
+S4P5J 5.9 24.8##person putting away groceries.
+S4P5J 33.7 38.5##another person is smiling.
+YGL6R 21.1 28.8##person stop to open a window.
+YGL6R 4.8 14.8##person tidying up the table.
+OT35M 4.4 9.8##a person put a towels around their neck.
+1L5D3 2.5 16.8##person snuggling up to the pillow.
+1L5D3 2.9 10.0##a person takes a pillow off a shelf.
+PGPSJ 19.1 25.3##person closes the box.
+UR5TU 20.2 27.1##person closes the cabinet door.
+UR5TU 0.4 7.4##person a girl opens the pantry door.
+UR5TU 20.2 27.1##person closes the door.
+J3RD3 5.3 10.8##person closes the door.
+1XOQ8 1.1 6.2##person they start throwing shoes out of the way.
+GMPHO 1.0 9.0##person opening their closet door.
+GMPHO 34.4 41.0##person walking out the doorway.
+GMPHO 1.0 9.8##a person opens the closet takes stuff out.
+JFBTV 0.0 5.8##a person opens a closet door.
+JFBTV 0.0 5.8##person opens a door to a closet.
+15RTV 12.1 20.1##person eating a cookie.
+7835X 0.0 5.7##a person throws shoes in the corner.
+7835X 0.0 5.7##person throws a pair of shoes in the corner.
+C10FA 9.0 21.9##a person holding a glass opens the refrigerator.
+41T8C 5.1 11.7##a person is sneezing.
+41T8C 12.3 20.5##person puts the book on the shelf.
+GLSU2 14.2 19.7##the person takes a towel from the cabinet.
+MXATD 0.6 9.0##person pour in some dish washing soap.
+29V7T 4.4 9.4##person turns on the light.
+29V7T 0.0 9.7##person they are holding a broom instead of the glasses.
+3KDI5 21.9 36.0##working on a laptop in a relaxed manner.
+ICQZX 12.5 18.0##the person takes a book from the wardrobe.
+ICQZX 9.4 14.7##person the take shoes out of the closet stand up.
+448J4 13.8 21.9##person puts the plate on a table.
+BFH78 21.0 32.0##the person holds a small towel.
+BFH78 23.8 30.7##person begin smiling.
+X37P1 14.1 20.7##person takes a drink out of the glass.
+3QL7J 0.0 15.6##person cooks some food on the stove.
+3QL7J 25.8 31.6##person looking out the window.
+9LTZT 13.6 22.9##person drinks something from the glass.
+GFPDD 0.0 10.1##a person walks into the kitchen holding a box.
+A59CN 18.6 25.0##person turn on the light.
+4PEL7 7.7 13.6##person closing the bathroom door behind him.
+4PEL7 6.6 11.6##the person turns the light off.
+MZ3X9 8.7 17.9##person take out he broom from inside.
+UUF84 24.5 32.5##person takes off their shoes.
+UUF84 12.4 20.2##person eat some food.
+YAFX0 6.2 14.9##person puts the dirty clothes in the washer.
+YAFX0 18.8 29.5##person starts washing the clothes.
+O87OF 0.0 10.5##person puts it on a table.
+USNON 21.5 30.3##the person closed the entry door.
+ZZ4GP 0.0 11.9##a person is cooking at a stove.
+ZZ4GP 0.0 11.9##person he stops cooking.
+YB67Z 13.7 18.9##person close the top of the box.
+XSVLL 0.0 10.8##person runs to a table.
+XSVLL 0.0 10.8##person runs back to sit down.
+XSVLL 0.0 10.8##a person runs into the entryway.
+XSVLL 27.0 33.0##person sits down at the table.
+XSVLL 0.0 10.8##a person runs around the house.
+UUPJS 2.6 9.1##person puts the broom down to pick up a book.
+TESF6 17.6 22.9##person puts a camera into it.
+TESF6 2.9 10.1##person puts it oin the box.
+TESF6 3.2 10.8##a person opens a box.
+TESF6 21.3 31.0##this person holds the box.
+TESF6 3.2 10.8##one person at a sofa opens a box.
+XOOPP 6.7 15.2##person stands on it to put a picture up.
+MIAE4 11.4 24.5##person sits on a bed for a.
+MIAE4 3.9 8.9##person walk through a doorway.
+AFIRW 16.4 23.6##person takes out a phone.
+AFIRW 20.2 33.0##person takes a picture.
+AFIRW 0.0 6.6##person in bathroom who washes hands.
+AFIRW 0.0 6.6##person washes their hands.
+MTOFZ 19.4 30.0##person drink out of the glass.
+RKJ0C 0.0 3.2##a person closes a door.
+RKJ0C 0.0 14.4##a laughing person walks into their kitchen.
+VU996 17.2 24.3##person puts some blankets away inside.
+VU996 0.0 4.0##person turns the light off.
+T42IZ 19.9 26.9##person closes the fridge door.
+422BV 10.4 16.0##person look into a book.
+422BV 0.0 9.4##person holding shoes.
+422BV 5.1 13.7##the person put their shoes on.
+AYZS4 4.2 17.9##a person is eating.
+AYZS4 4.2 17.9##person eating a banana.
+MA6GY 0.0 6.8##person opening a box.
+MA6GY 0.0 6.8##a person opens a box of groceries.
+ST7MR 28.3 35.7##person they throw it on the floor.
+WDF45 5.4 10.1##person puts it on a table.
+ITDHX 22.5 33.0##person putting a pillow on the bed in the bedroom.
+8YFD1 7.1 18.8##person starts undressing.
+8YFD1 7.1 18.8##looking in mirror,then person starts undressing.
+RBQ9Y 0.0 13.1##a man begins to undress.
+RBQ9Y 38.6 51.9##person sit on the bed.
+RBQ9Y 39.2 51.9##person put on some shoes.
+RBQ9Y 39.2 51.9##person putting on shoes.
+GV0L7 0.1 12.6##person sits down on the couch.
+V7YEJ 0.0 7.7##a person lying on the floor awakens.
+V7YEJ 9.9 16.9##person begins eating.
+V7YEJ 0.0 7.7##a person awakens on the floor of their recreation room.
+DUSJO 6.9 12.6##person puts cup on shelf.
+21F9H 21.0 26.9##person puts a pillow down on the bed.
+21F9H 26.2 31.0##sitting down on a bed in a comfortable manner.
+OWRDE 0.9 13.0##a person quickly eats something.
+YG9UR 12.2 18.1##person opened the book.
+JMCBE 0.0 6.5##a person is throwing items off the stairs like blankets.
+RIZ7Y 12.7 18.6##another person runs past them.
+PCNUP 4.3 9.7##person puts the picture on the floor.
+PCNUP 0.0 9.1##a person is holding a picture.
+PCNUP 2.0 7.1##a person turns on the light.
+PZ0ND 9.1 13.0##person begin dressing.
+ZC017 10.2 18.8##person began tidying up a small table.
+ZC017 0.0 9.3##a person is sitting on the couch watching television.
+XEJ35 5.1 10.6##person opened a book.
+QQMY8 0.8 5.4##person turns out the light in the closet.
+QQMY8 0.8 5.4##person turning on a light.
+8NEYJ 3.5 9.0##a person opens a door.
+8NEYJ 19.7 32.0##person looks out of the window.
+8NEYJ 3.5 9.0##person seeing the door open.
+BYP85 21.8 29.8##person they tidy up a shelf in front of them.
+Y44TV 8.9 20.3##one person takes a pillow.
+31YNM 11.7 24.4##person drinks from a cup.
+DWH0T 22.4 32.9##person pours themselves a cup of water.
+MJYTA 8.6 14.9##the person puts the bowls on the table.
+O3Y57 6.2 13.1##person they put the bag over their head.
+I52A6 0.0 3.5##a person is drinking glass of water in laundry room.
+H411A 6.5 11.3##person put a pillow in a box close the box.
+UQJ5W 5.6 13.2##person walks into shower opens the window.
+UQJ5W 5.6 13.2##person opens the window.
+UQJ5W 0.0 4.2##person eating a sandwich.
+UQJ5W 17.7 28.0##person proceeds to take a picture out of the window.
+UQJ5W 5.6 13.2##person opens the window inside the shower.
+DR7K0 17.3 32.0##person begin to dress themselves.
+DR7K0 0.0 9.4##a person is seen smiling.
+3YQE2 24.7 31.0##person turn off the light.
+AHBE8 12.7 17.8##a person opens a box.
+WM6RQ 12.6 18.0##the person closes the refrigerator.
+RV5CK 27.1 34.0##person trying to turn off the light.
+PIJRH 0.0 12.9##person holding a bag.
+PIJRH 6.9 12.7##person takes a pillow out of a bag.
+ZJ37U 0.0 12.2##person eating sandwich.
+ZJ37U 2.5 7.0##the person turns off the light in the hallway.
+PAA7V 20.0 25.0##the person takes a toy out of the box.
+07QNG 29.4 36.7##person they stop to pour some water in a glass.
+28BVI 36.7 43.1##person holding a glass of water.
+28BVI 19.0 34.2##person eats something.
+28BVI 25.0 34.4##person drinks out of a glass.
+28BVI 19.0 34.2##person they eat a plate of food.
+HAPCT 5.8 19.1##person laughs at the television program.
+HAPCT 8.6 16.0##person takes their shoes off.
+U5RYN 0.0 2.8##person turns on the light.
+DUZDL 1.4 6.4##person throws off their blanket.
+580G0 14.8 22.0##person puts their shoes on.
+580G0 6.6 14.7##person drink some water with the glass.
+580G0 0.0 4.1##a person awakens in bed.
+S2S7I 5.2 9.9##person puts a bag of groceries down on the table.
+JP5NM 6.2 14.2##the person takes a blanket from the couch.
+LQC89 12.4 20.0##person eating from a plate.
+ARWNX 5.2 11.5##a person is in the kitchen putting a box down.
+6XB10 26.9 36.5##person they begin sneezing.
+F66WG 18.7 30.3##person began to eat something in hand.
+ATCOR 19.7 25.8##person gets up to turn off the light.
+9KDP0 4.5 18.3##person looks at the book.
+V26U3 5.1 10.6##person throws a pillow at the refrigerator.
+V26U3 5.1 10.6##a person is throwing a pillow at the refrigerator.
+V26U3 5.1 10.6##person throws a pillow at a refrigerator.
+NKLTK 15.4 26.2##person runs over to a window.
+NKLTK 7.4 19.7##a person awakens in a chair.
+NKLTK 15.4 26.2##the person runs over to the window.
+UOZES 31.2 37.0##person looking out the window.
+UOZES 13.3 25.7##a person awakens.
+UOZES 26.3 32.3##the person laughs.
+PAS7F 15.9 22.6##person sits down on the couch.
+WISO0 1.9 8.6##as the person was sneezing.
+EHIOY 21.8 36.0##person eats a plate of food.
+TIWRY 20.0 27.0##person begins to wash dishes.
+OU3XH 19.2 24.5##person eats some food off a plate.
+8N4O9 1.4 7.4##person opens the door.
+8N4O9 6.3 10.8##person turns on the light.
+8N4O9 19.5 23.0##person turns the light off.
+8N4O9 6.3 10.8##a person turns on a light.
+8N4O9 1.4 7.4##person opens a door.
+LBJ0W 0.0 14.1##a person sitting on a bed takes off their shoes.
+35ZZP 6.7 12.4##the person puts the food on the table.
+77JGY 11.4 22.0##person puts the sandwich down.
+77JGY 17.8 22.8##the person puts the food down on the table.
+77JGY 0.0 13.9##the person is sitting at a desk eating a sandwich.
+Z9RED 0.0 5.7##a person walks through a bathroom doorway.
+J1MMG 20.9 29.4##person they stand up.
+MZZ8Q 0.0 5.0##a person puts something on a shelf.
+3J85M 19.3 28.8##person eat them.
+3J85M 19.3 28.8##person eat the food.
+RT1JY 11.4 15.8##person sit on a bed.
+U0P7W 18.8 24.9##the person opens a cabinet.
+4KYZH 9.4 14.8##person grabs something to eat.
+TK1VC 17.1 21.0##person sits down on the couch.
+SE2K2 0.6 7.1##a person opens the door to the kitchen.
+G6ZOB 7.0 14.9##person closing the door to the entryway.
+SRTX6 13.6 26.4##person takes the food to the kitchen.
+SOZ1G 9.0 13.0##the person starts to stand up.
+AK9PN 25.2 32.0##person sits on a couch.
+AK9PN 18.3 27.4##person starts sneezing 2 times.
+AK9PN 4.7 10.2##person opens a closet door.
+8LLI3 11.7 16.8##person closing the door behind them.
+8LLI3 9.0 14.1##person puts it back on the shelf.
+VFAE3 0.6 7.0##person closes the door with her hand on the knob.
+IULK6 3.9 9.5##a person opens a book with a notepad in it.
+OWUW8 0.5 5.0##person throws it on the floor.
+OWUW8 0.5 5.0##person throws it down to the floor.
+CUQYX 24.3 30.0##person put them in a bag.
+FLDHS 5.4 12.8##person puts it in a box.
+J2XFQ 18.7 30.0##person eat a sandwich.
+J2XFQ 16.0 21.5##person open the refrigerator.
+J2XFQ 19.3 30.0##person eats it.
+8Q7ZI 0.0 3.9##a person drinks from a cup.
+1BGZ0 0.0 9.2##a person runs into their entryway holding a bag.
+EOUCM 0.0 8.9##the person puts the mirror in the box.
+NF45F 4.0 8.9##person turns the lights on.
+NF45F 8.7 25.6##person starts undressing.
+NF45F 4.0 8.9##a person turns on the light.
+TCOXG 21.3 31.0##person sits down on the sofa.
+L8RW8 0.0 3.5##the person is undressing in front of a sink.
+K64GM 11.0 15.8##the person put the camera around their neck.
+0O6RK 17.0 23.6##person closing the refrigerator door.
+0O6RK 22.9 31.0##person starts cooking on a stove.
+0O6RK 17.0 23.6##the person closes the door.
+0O6RK 12.5 17.6##a person puts a light inside of a refrigerator.
+358JF 18.8 28.9##the person drinks some water from a glass.
+358JF 18.0 24.7##the person takes a glass of water from nearby.
+P8G8V 3.8 11.4##person drinking from a cup.
+P8G8V 3.8 11.4##person they casually drink a cup of coffee.
+P8G8V 3.8 11.4##person drinking a cup of coffee.
+JQRMQ 5.9 11.1##a person opens a door.
+JQRMQ 5.9 11.1##the person opens the door.
+VJG6E 3.0 10.0##person puts a blanket over a chair.
+OPSF8 5.8 16.7##person drinking from a coffee cup.
+HVFXT 26.8 32.8##person closes the door.
+QIT2W 9.9 22.8##person eating from a bowl.
+QIT2W 9.7 15.9##person a takes spoonful of the food made for lunch.
+ZI1GC 11.1 16.3##person opening the door.
+4BEZX 0.0 4.0##a person opens the door.
+VNUPE 17.4 25.7##there is a person cooking something on the stove.
+VZE8E 7.9 15.5##person opening the closet door.
+SM41Q 3.7 13.0##person takes a laptop.
+O1LMX 8.4 14.2##the person puts the book away.
+O1LMX 2.1 14.2##the person looks at the book.
+7177T 14.9 20.3##person turn on the light.
+3XL0K 0.0 5.5##a person closes the cabinet.
+65UVU 0.0 3.2##a person opens the door to the bedroom.
+65UVU 4.2 16.0##a person puts a container on a top shelf.
+JZ45I 28.8 35.0##person open a box.
+LKH9A 0.0 6.0##person turns on the light.
+LKH9A 23.0 29.2##person puts the book down.
+LKH9A 6.4 11.9##person take a book off the top of the shelf.
+HDHGT 11.5 19.5##person sneezing on a shelf in the pantry.
+QFL2O 21.8 32.0##person laugh at it.
+QFL2O 20.7 32.0##person takes a phone.
+D9PWE 0.0 5.0##a person takes a vacuum.
+SJJLG 1.0 5.6##a person is opening a cabinet.
+SJJLG 9.7 15.2##person sits at a table in front of a laptop.
+CPM4M 26.3 30.0##person starts eating from the bowl.
+LRDW5 6.7 20.5##the person begins to put clothes on.
+0WYBK 8.2 12.8##that same person puts the book down on the floor.
+NTXXB 11.0 17.5##person takes out a camera.
+EJZZZ 2.4 10.7##person dressing themselves.
+SLAH4 0.0 3.9##a person is holding a doorknob.
+JDZV7 0.0 9.8##person washing hands at sink.
+UD0P0 17.5 25.8##one person uses a camera to take a picture.
+T8VDU 17.1 27.6##a person is sitting in a chair watching tv.
+T8VDU 9.8 21.5##person grabs a red drinking glass from the table.
+0TKKR 34.9 45.0##person eating a sandwich.
+0TKKR 34.9 45.0##a person eats a sandwich on the couch.
+17P5V 11.5 19.0##person puts the laptop on a love seat.
+15PMU 0.9 12.4##person looking out the window.
+15PMU 0.5 12.8##the person undressed.
+15PMU 21.4 32.0##person drinks something from the cup.
+W1CG2 5.0 16.8##the person is eating food.
+W1CG2 13.4 19.1##person puts their leg up on a table.
+JHB0M 7.7 14.9##person pours medicine in a cup.
+EXYY8 0.0 7.0##a person runs into the closet holding a laptop.
+NAZ52 21.3 27.2##person he closed the box.
+NAZ52 5.4 15.7##person puts the box onto a shelf.
+FQOGZ 10.1 17.1##the person begins sneezing.
+RG0JH 0.0 8.1##a person sits on the bed.
+RG0JH 0.0 8.1##a man sitting on a bed.
+XHYA2 20.9 32.0##person sits down on the bed.
+1W6ZK 0.8 9.7##person walks through the doorway.
+KJRR9 2.4 9.2##a person opens a door.
+KJRR9 2.4 9.2##person is opening a door.
+KJRR9 6.4 11.2##the person turns on the light.
+9M48H 0.0 8.7##person puts a phone down on the counter.
+9M48H 0.0 8.7##a person puts their phone on the kitchen counter.
+I7GZI 0.0 5.9##person she runs out of the room.
+NATEB 13.7 19.9##person closing a door.
+IBWAW 17.5 23.3##person puts the cup on a table.
+IBWAW 17.5 23.3##person drank from the glass,put the glass down.
+IBWAW 1.4 9.4##person he eats something out of his hand.
+IBWAW 1.4 9.4##a person is eating a snack.
+A1BS2 14.9 20.6##person opens the door.
+MFGLZ 18.7 30.4##person opens bag.
+MFGLZ 0.0 8.6##a person awakens in their home office.
+6TC5G 14.0 18.0##person shuts off the light.
+XZ2WT 15.8 29.6##person snuggles a blanket found inside.
+6OQYV 5.5 13.2##a person is adding clothes to a washing machine.
+6OQYV 5.3 12.2##person wards they open a cabinet.
+FQGW4 5.4 10.2##person put the cup.
+QF1Y0 10.4 18.7##another person opens the door.
+0DD62 0.0 7.9##the person looks back down at the picture.
+LCA0Q 7.5 12.1##person they put their laptop next to the sink.
+TU9K1 34.1 40.8##person close the closet door.
+EK5K1 39.9 44.0##person start sneezing.
+G2QBV 15.5 20.2##the person takes a water bottle.
+G2QBV 0.0 7.1##person closes a door.
+6B2FN 0.0 6.2##person fixing his hair.
+C6INR 14.2 19.4##person take a picture with a camera.
+2U3X0 2.8 7.0##person turned on a light.
+2U3X0 0.0 5.9##a person opened a door.
+0A8CF 24.9 33.0##person takes a glass from somewhere.
+QBUAT 0.0 9.7##person begins to undress.
+KK7D4 0.9 8.2##person takes out a towel.
+EJFUA 13.1 21.0##person starts running around.
+EJFUA 13.1 21.0##person runs into the living room.
+EJFUA 13.1 21.0##person running in place.
+COFJV 8.7 17.5##person starts eating a sandwich that was inside.
+LPKPO 0.0 17.1##person grabs a plate that is sitting on the table.
+LPKPO 0.0 17.1##the person is sitting at the table.
+LD6TD 5.4 10.3##a person awakens in their dining room holding a book.
+LWRKS 3.3 11.8##person turns a light on.
+ZSAQG 4.0 12.5##a person run by with shoes in hand.
+0LDN3 0.0 7.0##a person runs into the kitchen.
+PJUM0 9.6 21.6##person pours it into a glass.
+PJUM0 19.5 29.2##person drinks from the glass.
+83S5W 5.8 12.4##person closes the door behind them.
+TFWNO 11.7 22.6##person eats from it.
+C6V75 26.5 32.7##person opens the door.
+BRBWJ 1.9 6.4##the person puts their clothes on the shelf as well.
+3OZUX 1.1 11.4##person #1 was washing a mirror on the wall.
+7614L 14.6 27.0##person hold the broom between the their legs.
+4VX01 3.3 10.5##person they stand up.
+4VX01 0.0 9.4##a person sits down on the floor.
+4TX4N 0.0 6.8##person eating a sandwich.
+999BP 2.1 7.7##person a girl takes a bag.
+AFUBX 18.8 23.3##person turning off the light behind them.
+O8T6G 0.0 10.6##person sitting in a chair opening up a bag.
+NHH8N 4.7 13.8##person sits on a bed.
+DOYQE 19.2 28.4##the person stops cooking to drink from a cup.
+ZPRJH 0.0 4.5##person a guy stands up from sitting on the floor.
+WEW2E 0.0 8.0##a person walks in the entryway holding a bag.
+K5NFS 2.9 10.2##person throws their pillow aside.
+K5NFS 0.0 6.6##a person awakens on the floor of their study.
+K5NFS 9.9 15.4##the person begins tidying their clothes.
+TTVN5 0.0 13.2##a person is playing on their phone.
+WKVWF 2.4 9.6##person holding a cup of water than drinks from it.
+WKVWF 0.0 4.3##a person throws a book onto the sofa.
+WKVWF 19.7 30.0##person takes things out of a box.
+6E8GP 10.8 18.3##person opens a closet.
+U5T4M 12.4 21.0##person sits in a chair.
+U5T4M 11.7 21.0##person eats it.
+EYZXC 20.3 32.3##person snuggling a blanket.
+ONMCW 21.7 36.0##person holding the glass.
+WXXYY 7.0 19.3##person begins to play on his phone.
+1B9DK 1.3 7.7##a second person runs in sees themselves in the mirror.
+PN1F2 2.1 17.3##person is holding pillow.
+0F7LW 0.8 8.1##person opens a closet door.
+3VH9O 5.7 14.7##person eating snack food.
+3VH9O 5.7 14.7##person eating from a box.
+3VH9O 5.7 14.7##person eating a snack out of a box.
+0J1BT 9.5 15.2##the person throws their clothes on the shelf.
+7R44Z 4.9 11.0##a person is putting clothes into a laundry machine.
+E8JEJ 0.0 3.4##person they open the door multiple times.
+E8JEJ 16.2 22.7##person throw something to the floor.
+D8FTI 1.4 7.0##person open a cabinet.
+4RT06 0.0 2.6##person opens the refrigerator.
+5GP8M 0.0 12.7##a person walking into a walk-in closet holding a phone.
+72M7T 4.0 9.0##one person runs in.
+72M7T 4.0 9.0##open a mobile,then suddenly another person comes running.
+SROEU 1.1 8.5##person opens a cabinet door with a phone in hand.
+GM3UK 1.6 6.9##a person organizes a table by putting things away.
+GM3UK 18.4 24.0##a person is putting a camera on a shelf.
+9VF2C 14.5 19.5##the person quickly throws the blanket off of them.
+WSKTN 0.0 5.0##person opens the cupboard door.
+5NG6Q 10.9 22.2##person pours some more things into a cup.
+LLE9B 19.3 24.8##person using a laptop computer.
+WM2J7 13.1 24.9##person he moves to a china cabinet to open it.
+WM2J7 0.0 9.0##a person is washing a window.
+WM2J7 0.0 9.0##a person washes a window.
+GFJ98 9.4 17.4##a person is putting a picture on a wall.
+UEVVN 1.2 8.7##a person runs to the open window.
+OKIVH 25.8 32.0##a person is laughing in the mirror.
+OQ54Y 26.6 31.1##person sit down at a table.
+OQ54Y 0.0 4.9##person walks over to the refrigerator open it up.
+OQ54Y 31.6 35.0##person they pour the milk into a glass.
+5I5E5 2.6 8.4##the person takes a tissue from a tissue box.
+XF2ZM 0.9 14.6##person where he begins to undress by removing his hoodie.
+OGLCO 4.2 14.0##person eating chips out of a bag.
+DAA3F 24.8 29.3##person begin to eat it.
+DAA3F 18.1 27.2##a person covered with a blanket awakens in bed.
+DAA3F 11.5 17.4##person take some food.
+6IL0C 0.0 16.5##a person puts some books onto a desk.
+UYZKX 3.9 10.2##this person opened up their closet.
+X07QW 11.7 19.8##next the person takes a blanket from a cabinet.
+LXLW4 28.2 38.0##person drinks from a cup.
+3JCEI 0.3 9.4##a person is laughing.
+3JCEI 0.3 9.4##a person sits at a table laughing at a laptop.
+QZZPS 0.0 12.8##person sitting on the couch wearing a sweater.
+QZZPS 0.0 12.8##a person is seen sitting on a couch.
+PSAVM 0.0 6.6##a person is washing his hands.
+NUW9G 0.0 9.2##a person holding a plastic bag puts.
+C1DK7 22.5 28.0##person leaves closing door behind them.
+C1DK7 20.6 25.9##person opens a door.
+STHIK 1.3 9.0##a person runs through the doorway.
+STHIK 1.9 7.2##person drinking a cup of coffee.
+M4FOP 5.4 10.0##a person puts stuff in a bag by the window.
+1VRH1 12.4 18.7##person they throw the book on the floor.
+1VRH1 22.8 31.0##person turn off the light on the bedside table.
+1VRH1 22.8 31.0##person shutting off the bedside light.
+AWN1C 27.0 39.0##person gets a drink from a red cup.
+3CLVI 3.3 7.8##person flicks the lightswitch on.
+CS7HY 6.4 18.5##person they open a cabinet.
+CS7HY 6.4 18.5##person open a cabinet.
+ZNQVC 8.9 15.9##person closing the door.
+B0SV3 7.1 11.4##a person walking into a closet turns on the light.
+F1LTO 20.6 26.9##person closes the doors.
+DGHSW 13.1 19.6##person quickly runs off.
+06LBQ 21.6 26.6##person closes the top of the box.
+QZ1BS 0.0 12.8##a person lying down awakens in the basement.
+4H935 4.5 10.2##person turns on the light.
+O76GM 15.0 22.9##person starts closing door.
+IV1S7 8.2 13.6##person puts the glass on the table.
+D04GX 0.0 4.0##a person opens a door.
+D04GX 0.0 5.7##person eating a sandwich.
+D01MJ 28.9 35.8##person they stand up.
+50E06 15.9 24.9##person drinks from the cup.
+50E06 21.2 27.1##the person puts the cup down.
+P5YNX 0.0 13.1##a person is sitting in a chair.
+R4SJJ 0.3 6.7##person closes the door.
+R4SJJ 6.2 10.9##person they throw some clothes on the bed.
+GA7SB 23.2 29.7##person gets undressed.
+GA7SB 23.2 29.7##a person is undressing in their bedroom.
+GA7SB 19.1 31.0##person started to eat his food.
+EG0VZ 16.3 22.7##person takes a book.
+EG0VZ 7.2 18.4##a person awakens in their bedroom.
+SSPMK 27.1 34.6##person taking a drink from a cup.
+SSPMK 27.1 34.6##person he drinks from a cup in his hand.
+OK6BF 19.0 25.0##the person opened the window to let fresh air in.
+8CCEV 0.0 4.1##a person is snuggling a pillow with their laptop open.
+R5O7F 11.0 19.5##person opens a cabinet.
+R5O7F 28.5 40.0##the person is undressing.
+R5O7F 17.8 24.9##a person puts some clothes into a cabinet.
+R5O7F 17.8 24.9##person puts the clothing on a shelf in the cabinet.
+Y50QF 31.9 38.0##person opening a box in a dining room.
+Y50QF 21.8 30.9##person pours himself some coffee into a cup.
+Y50QF 21.8 30.9##person pour a cup of coffee.
+WZDXS 13.5 20.2##person watching something on a laptop screen.
+VEH0A 0.0 4.4##person is lying on floor fixing door.
+SPF63 23.5 29.8##person throws the case on the floor.
+SPF63 14.8 21.2##the person opens the box.
+Q948H 5.8 22.2##the person takes a picture out.
+Q948H 5.8 22.2##person opens it up takes a picture.
+OPMF7 9.4 14.3##person they begin sneezing.
+OPMF7 9.4 14.3##a person is also sneezing.
+VINM0 0.0 8.5##person holding a pair of shoes.
+VINM0 2.7 9.6##a person puts his shoes down on the floor.
+6JLD4 23.0 28.7##person closes the door.
+WZZPC 5.1 8.0##person open a door.
+SKZUG 4.5 12.0##a person is fixing a light in the refrigerator.
+SKZUG 4.5 12.0##a person is fixing the light in the refrigerator.
+LFPWI 4.0 18.4##a person is undressing in front of a sink.
+LFPWI 0.0 7.2##a person opens a door.
+LFPWI 0.0 7.2##the person opens the bathroom door.
+WWL0K 7.9 15.3##person throw the blanket down on the floor.
+WWL0K 7.9 15.3##person throws the blanket on the floor.
+WWL0K 0.0 7.9##person looking at a book.
+ZFT06 18.9 25.7##person takes a glass out from the refrigerator.
+9O0NP 5.1 13.6##a person throws a book into a box.
+9O0NP 0.0 8.3##a person looks through a book.
+9O0NP 0.0 8.3##a person looks at a book.
+9O0NP 0.0 8.3##a person in a kitchen reads from a book.
+BPT87 7.2 15.3##the person laughs.
+GL7E6 19.4 25.3##person takes some medicine.
+P4SB9 5.4 11.2##person puts the broom down.
+Y79PC 12.0 21.3##person they undress.
+Y79PC 19.2 25.5##person turn off the light.
+C6N6Y 0.0 6.4##person eating an apple.
+120YL 35.0 43.0##person sitting at the table.
+120YL 4.8 9.7##the person opens the box of cookies.
+120YL 35.0 43.0##person sits down in a chair at the table.
+H032R 12.4 23.0##person sitting down on a pillow in the bed.
+07TCM 6.0 15.9##person starts putting on their shoes.
+07TCM 6.0 15.9##person putting shoes.
+RFH6M 12.9 20.2##person puts a towel over the shoulder.
+7IPW7 0.0 6.3##person walks through the doorway into a room.
+CUHT0 11.0 16.6##person takes a picture of the couch with a camera.
+CUHT0 0.0 7.9##a person walks into the living holding a pillow.
+CUHT0 13.3 21.7##person they put the camera on the baby's jumper.
+M18XP 0.0 8.6##a person opens a door.
+4KK20 24.4 32.0##person throwing a box down.
+SVIXG 1.4 13.1##person opening a box.
+7JHW2 3.1 8.3##the person puts the laptop down onto a table.
+7JHW2 3.1 8.3##person sets a laptop computer on a counter.
